@@ -63,3 +63,6 @@ dist/
 
 # e2e: cloned Heliobond/contracts for the local-network journey
 /.e2e
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
